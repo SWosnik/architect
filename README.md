@@ -1,6 +1,6 @@
 # The Architect theme
 
-Forked from [!pages-themes/architect](https://github.com/pages-themes/architect)  for customization.
+Forked from [pages-themes/architect](https://github.com/pages-themes/architect)  for customization.
 
 *Architect is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/architect), or even [use it today](#usage).*
 
