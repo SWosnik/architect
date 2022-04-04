@@ -2,8 +2,6 @@
 
 Forked from [pages-themes/architect](https://github.com/pages-themes/architect)  for customization.
 
-[![Build Status](https://travis-ci.com/SWosnik/architect.svg?branch=master)](https://travis-ci.com/SWosnik/architect)
-
 *Architect is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/architect), or even [use it today](#usage).*
 
 ![Thumbnail of Architect](thumbnail.png)
